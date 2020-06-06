@@ -1,9 +1,9 @@
 {
-    "name": "online-store-3-srv",
+    "name": "media-server",
     "version": "0.1.0",
     "license": "custom",
     "private": true,
-    "author": "Frost0x",
+    "author": "Eduard Kirilov <ph0en1x.free@ya.ru>",
     "scripts": {
         "start": "nodemon -r dotenv/config src/index.js dotenv_config_path=.env"
     },
