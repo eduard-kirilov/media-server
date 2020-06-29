@@ -1,7 +1,7 @@
 {
     "name": "media-server",
     "version": "0.1.0",
-    "license": "custom",
+    "license": "MIT",
     "private": true,
     "author": "Eduard Kirilov <ph0en1x.free@ya.ru>",
     "scripts": {
@@ -13,5 +13,4 @@
         "express": "^4.17.1",
         "sharp": "^0.25.2"
     },
-    "devDependencies": {}
 }

@@ -5,4 +5,4 @@ COPY package*.json /home/media-server
 RUN yarn \
   && yarn global add nodemon
 COPY . /home/media-server
-CMD ["nodemon", "src/index.js"]
+CMD ["node", "src/index.js"]
